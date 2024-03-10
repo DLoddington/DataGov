@@ -1,0 +1,5 @@
+The aim of this assignment was to demonstrate our understanding of the ethical, social, legal, moral, and environmental challenges associated with the use of artificial intelligence within data mining applications and its impact on individuals and society. A secondary aim is to evaluate the role of Data Governance within an organization in the context of the application.
+
+Working as a group we selected am application that used data driven technology and / or artificial intelligence (data mining, machine learning) that has been recently highlighted in the media. 
+
+Our group chose to review something called Project Red Card, where footballer player data is collected during football matches and used to inform things such as betting and/or recruitment services down the line, and the ethics and legality of such data collection and sharing. 
